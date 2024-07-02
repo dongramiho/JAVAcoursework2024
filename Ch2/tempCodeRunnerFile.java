@@ -1,0 +1,1 @@
+ double Faharenheit = keyboard.nextDouble();
